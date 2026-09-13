@@ -29,28 +29,6 @@ This repository is focused on building a strong understanding of recursive probl
 * Constraint-based problems
 * Generating all possible solutions
 
-## 🗂️ Repository Structure
-
-```text
-Recursion-and-Backtracking/
-│
-├── Recursion/
-│   ├── Basic Recursion
-│   ├── Arrays
-│   ├── Strings
-│   └── Subsequences
-│
-├── Backtracking/
-│   ├── Subsets
-│   ├── Permutations
-│   ├── Combinations
-│   ├── Maze Problems
-│   └── Classic Problems
-│
-└── README.md
-```
-
-> The folder structure may evolve as more problems are added.
 
 ## 🧠 Problem-Solving Approach
 
